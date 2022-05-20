@@ -44,7 +44,6 @@ export default defineNuxtConfig({
 			],
 		},
 	},
-	ssr: false,
 	vite: {
 		css: {
 			preprocessorOptions: {

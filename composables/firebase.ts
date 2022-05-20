@@ -6,6 +6,8 @@ import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
 	apiKey: "AIzaSyDeJxWi-JDDINQAsMi1IxcIBUzarXa17Vg",
 	authDomain: "images-et-mouvements.firebaseapp.com",
+	databaseURL:
+		"https://images-et-mouvements-default-rtdb.europe-west1.firebasedatabase.app",
 	projectId: "images-et-mouvements",
 	storageBucket: "images-et-mouvements.appspot.com",
 	messagingSenderId: "107678332703",
