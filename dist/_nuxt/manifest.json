@@ -1,0 +1,87 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-aa6e85c7.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/about.vue",
+      "pages/animations.vue",
+      "pages/contact.vue",
+      "pages/festival.vue",
+      "pages/index.vue",
+      "pages/panelonlyforadmin.vue",
+      "pages/stages.vue",
+      "pages/studioonze.vue"
+    ],
+    "css": [
+      "entry.68c53f9e.css"
+    ],
+    "assets": [
+      "nasalization rg.0140b8ae.woff"
+    ]
+  },
+  "pages/about.vue": {
+    "file": "about-81569266.mjs",
+    "src": "pages/about.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/animations.vue": {
+    "file": "animations-c7224da2.mjs",
+    "src": "pages/animations.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/contact.vue": {
+    "file": "contact-f796fe11.mjs",
+    "src": "pages/contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/festival.vue": {
+    "file": "festival-92e5cb3f.mjs",
+    "src": "pages/festival.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-66142fba.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/panelonlyforadmin.vue": {
+    "file": "panelonlyforadmin-4d0e1804.mjs",
+    "src": "pages/panelonlyforadmin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/stages.vue": {
+    "file": "stages-79634774.mjs",
+    "src": "pages/stages.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/studioonze.vue": {
+    "file": "studioonze-f16bbfe5.mjs",
+    "src": "pages/studioonze.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
